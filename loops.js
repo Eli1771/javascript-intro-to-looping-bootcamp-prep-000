@@ -13,5 +13,5 @@ function whileLoop(num) {
   while(num > 0) {
     num -= 1;
   }
-  return "done";
+  return 'done';
 }
